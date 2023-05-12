@@ -2,7 +2,7 @@
   <div class="box formulario">
     <div class="columns">
       <div
-        class="column is-8"
+        class="column is-7"
         role="form"
         aria-label="formulário para criação de nova tarefa"
       >
@@ -49,6 +49,6 @@ export default defineComponent({
 <style>
 .formulario{
   color: var(--texto-primario);
-  background-color: var(--bg-primario)
+  background-color: var(--bg-primario);
 }
 </style>
